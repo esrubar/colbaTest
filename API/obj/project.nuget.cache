@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxhyJFAQfrCfGkmar1s/fG6PBW/BL9G3b2gcU962371t2SYB9PDg5p+O4LlUg4vyWZ+WD93JnTRpzZTuTbK/Vg==",
+  "success": true,
+  "projectFilePath": "/Users/estela-rubio/RiderProjects/ColbaTest/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/estela-rubio/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/estela-rubio/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/estela-rubio/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/estela-rubio/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/estela-rubio/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/estela-rubio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
